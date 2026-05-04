@@ -182,10 +182,10 @@ After taking a new screenshot, a popup appears. You can choose to keep it in the
 If you choose **create new**, you’ll be prompted to enter a folder name. After tapping **OK**, the folder is created and added to the menu for future screenshots.
 
 
-<img width="257" height="178" alt="image" src="https://github.com/user-attachments/assets/8c7ce07c-41e6-4e65-8bfa-f31cfd8b3662" />
+<img width="300" height="178" alt="image" src="https://github.com/user-attachments/assets/8c7ce07c-41e6-4e65-8bfa-f31cfd8b3662" />
 
 
-<img width="939" height="643" alt="image" src="https://github.com/user-attachments/assets/e839e94a-ac55-4025-b6e9-64f6d16ce3d2" />
+<img width="300" height="643" alt="image" src="https://github.com/user-attachments/assets/e839e94a-ac55-4025-b6e9-64f6d16ce3d2" />
 
 
 If you choose **select existing folder**, it will show the folders inside your device’s `DCIM` folder. Select one and tap **OK**. The screenshot will be moved there, and that folder will be saved in the menu for next time.
