@@ -44,6 +44,16 @@ python3 SnapSort.py
 
 On first run, take one screenshot so SnapSort can detect your screenshot folder.
 
+## Optional: Run on boot
+
+SnapSort can be set up with Termux:Boot so it starts automatically after your phone restarts.
+
+I haven’t added the full setup guide for this yet, but SnapSort works normally without it by running:
+
+```bash
+python3 SnapSort.py
+```
+
 ## Feedback & Future Plans
 
 If you run into any issues or have ideas for improvements, feel free to open an issue or suggest features.
