@@ -34,5 +34,18 @@ On first run, take one screenshot so SnapSort can detect your screenshot folder.
 
 ## Setup Guide with Screenshots
 
+Step 1: Update Termux packages
+Run `pkg upgrade`
+
+<img width="297" height="293" alt="image" src="https://github.com/user-attachments/assets/d1615269-8b61-4bc2-beca-25c23696fb57" />
+
+Step 2: Install required packages
+Run `pkg install termux-api python`. This installs Python and the Termux API needed for popups.
+
+<img width="300" height="435" alt="image" src="https://github.com/user-attachments/assets/28b49044-33da-41e9-8a49-c7b298881812" />
+
+**Step 3: Install Termux:API from F-Droid**  
+This app enables popups and Android features (like dialogs) from Termux. It must be installed for the script to work.
+
 
 
