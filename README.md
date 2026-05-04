@@ -17,6 +17,18 @@ SnapSort-Termux watches your Android screenshot folder. When you take a screensh
 - Python
 - Storage permission
 
+## Features
+
+- Auto-detects your screenshot folder
+- Interactive popup for sorting screenshots
+- Create new folders on the fly
+- Select existing folders from your device
+- Remembers your choices for future use
+
+## Example:
+
+Take a screenshot → popup appears → choose folder → screenshot is moved instantly
+
 ## Installation
 
 ```bash
