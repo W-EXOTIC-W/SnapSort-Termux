@@ -25,10 +25,14 @@ pkg install python termux-api
 termux-setup-storage
 ```
 
-Usage
+## Usage
+```
 python3 SnapSort.py
+```
 
 On first run, take one screenshot so SnapSort can detect your screenshot folder.
 
-Setup Guide with Screenshots
+## Setup Guide with Screenshots
+
+
 
