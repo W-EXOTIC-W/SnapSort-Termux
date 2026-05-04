@@ -203,7 +203,9 @@ If you choose **select existing folder**, it will show the folders inside your d
 
 **Note:** Selecting **keep in screenshots** will leave the screenshot in the detected screenshots folder. It won’t be moved, and the script will stop prompting for that file.
 
+## License
 
+This project is licensed under the MIT License.
 
 
 
