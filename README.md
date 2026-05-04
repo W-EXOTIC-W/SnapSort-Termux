@@ -32,6 +32,13 @@ python3 SnapSort.py
 
 On first run, take one screenshot so SnapSort can detect your screenshot folder.
 
+## Feedback & Future Plans
+
+If you run into any issues or have ideas for improvements, feel free to open an issue or suggest features.
+
+If there’s enough interest, I plan to build a full Android app version (no Termux required) with a cleaner UI and background support.
+
+
 ## Setup Guide with Screenshots
 
 **Step 1: Update Termux packages**
