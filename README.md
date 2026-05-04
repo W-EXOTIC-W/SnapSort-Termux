@@ -185,7 +185,7 @@ If you choose **create new**, you’ll be prompted to enter a folder name. After
 <p>   <img src="https://github.com/user-attachments/assets/8c7ce07c-41e6-4e65-8bfa-f31cfd8b3662" width="300" /> </p>
 
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/e839e94a-ac55-4025-b6e9-64f6d16ce3d2" />
+<p> <img width="300" alt="image" src="https://github.com/user-attachments/assets/e839e94a-ac55-4025-b6e9-64f6d16ce3d2" /> </p>
 
 
 If you choose **select existing folder**, it will show the folders inside your device’s `DCIM` folder. Select one and tap **OK**. The screenshot will be moved there, and that folder will be saved in the menu for next time.
